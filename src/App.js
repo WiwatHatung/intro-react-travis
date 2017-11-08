@@ -4,6 +4,7 @@ import './App.css';
 import  Header from './Header';
 import HomeBody from './HomeBody';
 import HomeFooter from './HomeFooter';
+import ShowList from "./components/ShowList";
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
           <Header/>
           <HomeBody/>
           <HomeFooter/>
+        <ShowList/>
 
       </div>
     );
