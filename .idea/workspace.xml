@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b14a03-08ed-4e0c-8734-5dbbd1162c51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HomeBody.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HomeFooter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ShowCounter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -82,7 +76,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -152,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510118464939</updated>
-      <workItem from="1510118467940" duration="2004000" />
+      <workItem from="1510118467940" duration="2022000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1510118690541</created>
@@ -161,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510118690541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1510122286646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510122286646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2004000" />
+    <option name="totallyTimeSpent" value="2022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
